@@ -31,7 +31,7 @@
     "json-parse-helpfulerror": "^1.0.3",
     "lodash": "^4.17.15",
     "lodash-id": "^0.14.0",
-    "lowdb": "^1.0.0",
+    "lowdb": "^2.0.0",
     "method-override": "^3.0.0",
     "morgan": "^1.9.1",
     "nanoid": "^2.1.0",
@@ -40,8 +40,8 @@
     "pluralize": "^8.0.0",
     "request": "^2.88.0",
     "server-destroy": "^1.0.1",
-    "update-notifier": "^3.0.1",
-    "yargs": "^14.0.0"
+    "update-notifier": "^7.3.0",
+    "yargs": "^17.6.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.5.5",
